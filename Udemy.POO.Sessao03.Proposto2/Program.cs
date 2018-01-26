@@ -5,6 +5,9 @@ using Udemy.POO.Sessao03.Proposto2.Dominio;
 /// <summary>
 /// Exercício proposto
 /// </summary>
+/// <remarks>
+/// Teste com Git
+/// </remarks>
 namespace Udemy.POO.Sessao03.Proposto2 {
     class Program {
 
