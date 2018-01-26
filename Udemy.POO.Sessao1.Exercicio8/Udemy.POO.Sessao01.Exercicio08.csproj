@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{54D34810-08B9-4649-88E5-F1B44F406EBF}</ProjectGuid>
+    <ProjectGuid>{2D03C50A-BA0B-4B4C-947F-855371E6C21B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Udemy.POO.Sessao1.Exercicio1</RootNamespace>
-    <AssemblyName>Udemy.POO.Sessao1.Exercicio1</AssemblyName>
+    <RootNamespace>Udemy.POO.Sessao1.Exercicio8</RootNamespace>
+    <AssemblyName>Udemy.POO.Sessao1.Exercicio8</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Exerc8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
