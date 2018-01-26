@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using Udemy.POO.Sessao03.Proposto2.Dominio;
 
+/// <summary>
+/// Exercício proposto
+/// </summary>
 namespace Udemy.POO.Sessao03.Proposto2 {
     class Program {
 
