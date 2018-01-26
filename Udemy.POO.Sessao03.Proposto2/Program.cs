@@ -8,6 +8,9 @@ using Udemy.POO.Sessao03.Proposto2.Dominio;
 /// <remarks>
 /// Teste com Git
 /// </remarks>
+/// <remarks>
+/// Remarks duplicado
+/// </remarks>
 namespace Udemy.POO.Sessao03.Proposto2 {
     class Program {
 
